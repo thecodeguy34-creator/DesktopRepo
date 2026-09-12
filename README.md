@@ -1,2 +1,2 @@
-# DesktopRepo
-this is my another repository i make it on a desktop git hub 
+# My Fresh Start 🚀
+I am learning GitHub Desktop step-by-step and it is super easy!
